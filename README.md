@@ -45,6 +45,3 @@ Here are some ideas to get you started:
 - Enjoy it!! o/
 
 ----------------------------------------------------------------------------------
-
-
-LINK_GIT = https://github.com/hellenmas.
