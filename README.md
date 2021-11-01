@@ -7,7 +7,9 @@
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: 2021 Goals: Improve my developer skills and evolve professionally.
+
+🚀: I am a person in love with technology since childhood, I love learning new things and sharing knowledge/experiences with people who are on the same journey. 
 
 <br>
 
@@ -43,5 +45,8 @@
 </a>
 <a href="https://www.youtube.com/channel/UCPqdd06NsNhGV5tetc37KGg" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-jonathasbonfim-05122A?style=flat&logo=youtube&logoColor=f00000" alt="youtube"/>
+</a>
+<a href = "mailto:jonathas.santos.bonfim@gmail.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-jonathasbonfim-05122A?style=flat&logo=gmail&logoColor=f00000" alt="youtube"/>
 </a>
 </p>
