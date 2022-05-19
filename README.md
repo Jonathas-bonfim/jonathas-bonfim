@@ -47,7 +47,7 @@
 <a href="https://linkedin.com/in/jonathas-bonfim" target="_blank">
   <img align="center" src="https://img.shields.io/badge/jonathas_bonfim-05122A?style=flat&logo=linkedin&logoColor=0a66c2" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/maykbrito" target="_blank">
+<a href="https://instagram.com/jonathas.bonfim" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-jonathas.bonfim-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://www.youtube.com/channel/UCPqdd06NsNhGV5tetc37KGg" target="_blank">
