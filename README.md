@@ -3,14 +3,6 @@
  
 :computer: I'm Front-End Developer!
 
-:house_with_garden: I’m from Brazil.
-
-:books: I’m currently learning everything.
-
-:outbox_tray: 2021 Goals: Improve my developer skills and evolve professionally.
-
-🚀: I am a person in love with technology since childhood, I love learning new things and sharing knowledge/experiences with people who are on the same journey. 
-
 <br>
 
 ## 🛠 &nbsp;Tech Stack
