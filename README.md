@@ -3,7 +3,7 @@ Enthusiast of the best web & mobile development technologies.<br>
 I always try to add where I am involved, solving problems quickly and efficiently. I like to learn the technological news.<br>
 
 ![React href="https://developer.android.com"](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![React href="https://developer.android.com"](https://img.shields.io/badge/react%20native-05122A?style=flat&logo=react)&nbsp;
+![React href="https://developer.android.com"](https://img.shields.io/badge/React%20Native-05122A?style=flat&logo=react)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=007ACC)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
  
