@@ -1,9 +1,9 @@
 ## Jônathas Bonfim!
-Frontend Software Engineer with over three years of experience, specializing in React.js and TypeScript. I have a strong background in building scalable, high-performance solutions, particularly in e-commerce and healthcare applications. I enjoy working on projects that require optimization and user experience improvements, and I thrive in agile environments where collaboration and problem-solving are key. My most recent experience has been at RG System, where I worked on a health risk stratification system that benefited over 1.5 million patients. I’m always looking to enhance my skills and stay updated with modern development practices to deliver efficient and impactful solutions. </br>
+Software Engineer with 4+ years of experience designing and developing scalable front-end solutions using React.js, React Native, and TypeScript. Proven track record delivering high-impact digital platforms in healthcare and e-commerce sectors. Known for combining clean architecture, performance optimization, and user-centered design with modern tooling and agile practices.
+Key Tech: React, React Native, Node.js, TypeScript, Docker, GraphQL, Azure DevOps, CI/CD, Microservices. </br>
 
 ![React href="https://developer.android.com"](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![React href="https://developer.android.com"](https://img.shields.io/badge/React%20Native-05122A?style=flat&logo=react)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=007ACC)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
  
 <p align="left" style="background:yellow">
